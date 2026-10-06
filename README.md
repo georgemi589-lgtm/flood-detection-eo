@@ -63,7 +63,7 @@ Per-event breakdown, per-chip false-positive analysis, and the full threshold-sw
 
 ## Reproducibility
 
-Seed fixed at 42 across Python/NumPy/PyTorch/CUDA. Full notebook available at [link]. Event-level train/val/test split verified programmatically disjoint. Best model checkpoint and all evaluation code included.
+Seed fixed at 42 across Python/NumPy/PyTorch/CUDA. Full notebook available in this repository: [`flood-detection-eo-v2.ipynb`](./flood-detection-eo-v2.ipynb). Event-level train/val/test split verified programmatically disjoint. Best model checkpoint and all evaluation code included.
 
 ## Engineering Details
 
